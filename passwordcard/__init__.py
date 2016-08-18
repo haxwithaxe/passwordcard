@@ -10,6 +10,7 @@ __license__ = 'GPLv3'
 __copyright__ = 'Copyright © 2015 haxwithaxe'
 __authors__ = (('haxwithaxe', 'spam@haxwithaxe.net'),)
 __credits__ = ['pepsoft.org']
+__version__ = '0.1'
 
 
 import random
